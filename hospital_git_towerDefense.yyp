@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "2ff7bb04-14bc-475f-a529-3be321f8907a",
+            "Value": {
+                "id": "9042af95-0675-413b-83fd-a1b03b906f87",
+                "resourcePath": "sprites\\spritePlaceHolder\\spritePlaceHolder.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3beae500-c6e4-4c19-b669-abd64ab5f9e9",
             "Value": {
                 "id": "5667ba6a-08d6-4530-b155-6a5f87c09bec",
