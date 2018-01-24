@@ -71,11 +71,43 @@
             }
         },
         {
+            "Key": "472fde44-62b6-4b31-8af0-5122f287bfcf",
+            "Value": {
+                "id": "4099cfe0-dbd6-465b-9e53-aeb66bb73f34",
+                "resourcePath": "objects\\object0\\object0.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "518be837-31ef-469a-bf62-cc70a1541081",
             "Value": {
                 "id": "6604e15f-c155-4efa-b07f-cff390dd4771",
                 "resourcePath": "views\\518be837-31ef-469a-bf62-cc70a1541081.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "55d5767e-ba92-4547-9e24-08576d5f837b",
+            "Value": {
+                "id": "1d540b04-86e7-4ad6-a5ae-0ecfd54f2324",
+                "resourcePath": "objects\\follow_node\\follow_node.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "5f7ebfb9-6a1f-4e73-acbe-cca68530d964",
+            "Value": {
+                "id": "91d3d627-7e46-4292-9de5-dc1d62e38f90",
+                "resourcePath": "paths\\path0\\path0.yy",
+                "resourceType": "GMPath"
+            }
+        },
+        {
+            "Key": "6c4c4f7a-447c-4320-9100-94148e625b79",
+            "Value": {
+                "id": "4aa57884-4a02-4d6b-92c4-8ebd186bf321",
+                "resourcePath": "objects\\roomController\\roomController.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -143,6 +175,14 @@
             }
         },
         {
+            "Key": "bc9098e2-8da1-4d47-b60f-041984dfa359",
+            "Value": {
+                "id": "0bc4d680-62cb-4b52-8d31-302100f18474",
+                "resourcePath": "sprites\\sprite0\\sprite0.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "bd00b21a-c749-453e-b81c-01c1c294cbf7",
             "Value": {
                 "id": "c513fdba-635e-4c9b-8b83-e3ced0112a59",
@@ -204,6 +244,14 @@
                 "id": "a12fbe38-3aa9-4984-a41c-2e15bd9bc6de",
                 "resourcePath": "views\\dc5a2926-2458-4c10-9560-d8ac1abfae9f.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "dcdbb3f1-355a-4bf7-b5ea-2191197d32cc",
+            "Value": {
+                "id": "a80cf037-99c5-437e-8b83-da9197616f77",
+                "resourcePath": "sprites\\sprite1\\sprite1.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
