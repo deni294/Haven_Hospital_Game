@@ -7,3 +7,5 @@ for (var i  = 0; i < instance_number(object0); i+= 1)
 		temp_obj.hp -= .1;
 	}
 }
+
+
