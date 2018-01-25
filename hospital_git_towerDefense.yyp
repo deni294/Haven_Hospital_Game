@@ -79,6 +79,22 @@
             }
         },
         {
+            "Key": "478fa6f6-c6f2-4f7f-9025-0b90f5dbf464",
+            "Value": {
+                "id": "3c52a949-20c2-439a-b829-d89f41fbc2dd",
+                "resourcePath": "objects\\object_table\\object_table.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "4e49ce08-4eab-454b-a447-348a80ae6269",
+            "Value": {
+                "id": "543bd626-35c5-42d7-9816-26defd6cefd4",
+                "resourcePath": "sprites\\sprite_table\\sprite_table.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "518be837-31ef-469a-bf62-cc70a1541081",
             "Value": {
                 "id": "6604e15f-c155-4efa-b07f-cff390dd4771",
@@ -127,11 +143,35 @@
             }
         },
         {
+            "Key": "6fb8eb8c-0cf2-455f-9d86-077abfb0bf6d",
+            "Value": {
+                "id": "e9a8385f-8265-4a7f-8ca4-f6ade9bb8d57",
+                "resourcePath": "sprites\\sprite_table2\\sprite_table2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "72fc9ab8-798e-42ea-b966-eeb1181e16ff",
+            "Value": {
+                "id": "5046d4b2-b6da-4527-8999-b1f57b35cf43",
+                "resourcePath": "sprites\\sprite_Janet1\\sprite_Janet1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "759116fe-8f7d-4060-8d46-4bfcb44a6aab",
             "Value": {
                 "id": "46ada8d6-96ac-4b10-a23a-6acc7006d6b9",
                 "resourcePath": "views\\759116fe-8f7d-4060-8d46-4bfcb44a6aab.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "776b1c60-aa6b-4b18-85ab-be31149809cd",
+            "Value": {
+                "id": "20048eae-c8c4-47aa-aea8-e2ebf8181e66",
+                "resourcePath": "sprites\\sprite_floor\\sprite_floor.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -164,6 +204,14 @@
                 "id": "30d491ae-c197-4071-8eb5-4035fe2dabed",
                 "resourcePath": "options\\linux\\options_linux.yy",
                 "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "ae384559-4bdf-4351-960b-485a3bcadedb",
+            "Value": {
+                "id": "d90f329a-fc32-48ae-88ca-51dcde210c1a",
+                "resourcePath": "sprites\\sprite_normal_doctor\\sprite_normal_doctor.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
