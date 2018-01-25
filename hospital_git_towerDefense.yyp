@@ -87,6 +87,14 @@
             }
         },
         {
+            "Key": "48ec4436-a7cc-4c46-9f87-4fc1bdd06aac",
+            "Value": {
+                "id": "f68bd83c-ef90-456d-b711-c8400dbedbd8",
+                "resourcePath": "sprites\\sprite_tower1\\sprite_tower1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "4e49ce08-4eab-454b-a447-348a80ae6269",
             "Value": {
                 "id": "543bd626-35c5-42d7-9816-26defd6cefd4",
@@ -188,6 +196,14 @@
                 "id": "39af32e3-b8fa-4271-82d6-35945bacaa45",
                 "resourcePath": "scripts\\script0\\script0.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "a107aa2d-285f-4c93-a51e-df624fba5935",
+            "Value": {
+                "id": "7e209f6b-1beb-44eb-ad0c-052bc170e6ff",
+                "resourcePath": "objects\\object_tower1\\object_tower1.yy",
+                "resourceType": "GMObject"
             }
         },
         {
