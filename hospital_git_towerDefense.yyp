@@ -335,6 +335,14 @@
             }
         },
         {
+            "Key": "d89b5bd8-b42b-4dd2-9227-07fa0fc91d46",
+            "Value": {
+                "id": "cd065ae6-d311-405d-a36c-fabdfada58d1",
+                "resourcePath": "sprites\\sprite_Janet\\sprite_Janet.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "d90e6ed9-6b82-45d0-a00f-3be634e31554",
             "Value": {
                 "id": "c86ad2c7-9437-45f9-9bdb-5f4236e67f57",
