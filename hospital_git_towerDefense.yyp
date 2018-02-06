@@ -39,6 +39,22 @@
             }
         },
         {
+            "Key": "114c5137-dc84-4573-a2a1-774202031291",
+            "Value": {
+                "id": "6b9179b4-5878-4128-a9c3-6307f7fa8a07",
+                "resourcePath": "paths\\pathPatient\\pathPatient.yy",
+                "resourceType": "GMPath"
+            }
+        },
+        {
+            "Key": "17a4adc1-41f7-48cc-9052-eb5e7e0ab6ad",
+            "Value": {
+                "id": "8c947877-88c7-43f6-8d43-08fca27e3ddb",
+                "resourcePath": "sprites\\sprite_patient1\\sprite_patient1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "2113445c-d073-4fcc-be01-5e67fcb2fd63",
             "Value": {
                 "id": "4929f2db-c718-4bae-8280-d9e23debbf10",
@@ -199,6 +215,14 @@
             }
         },
         {
+            "Key": "9f2fe488-d9b2-4643-8e18-b1e7a94a598e",
+            "Value": {
+                "id": "dc0edbee-e238-40a5-add1-8cfef9bd05ee",
+                "resourcePath": "objects\\object_patient\\object_patient.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "a107aa2d-285f-4c93-a51e-df624fba5935",
             "Value": {
                 "id": "7e209f6b-1beb-44eb-ad0c-052bc170e6ff",
@@ -239,6 +263,14 @@
             }
         },
         {
+            "Key": "bb5298e2-c961-4acc-be36-d163daca34fb",
+            "Value": {
+                "id": "0ced5417-401c-4c71-8793-3b162a7c5850",
+                "resourcePath": "objects\\follow_nodePatient\\follow_nodePatient.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "bc9098e2-8da1-4d47-b60f-041984dfa359",
             "Value": {
                 "id": "0bc4d680-62cb-4b52-8d31-302100f18474",
@@ -252,6 +284,14 @@
                 "id": "c513fdba-635e-4c9b-8b83-e3ced0112a59",
                 "resourcePath": "views\\bd00b21a-c749-453e-b81c-01c1c294cbf7.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "bdc5c0bf-4c8c-441c-bf2d-497d1a9d651f",
+            "Value": {
+                "id": "e77c81b1-e8eb-4bbc-92f6-8e2673cacc18",
+                "resourcePath": "objects\\patientController\\patientController.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -332,6 +372,14 @@
                 "id": "63a3fd46-524e-4115-9a37-609d9aefd09e",
                 "resourcePath": "options\\mac\\options_mac.yy",
                 "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "fc03adcb-0b52-43f7-92e8-18a94e8705f2",
+            "Value": {
+                "id": "3498ae19-80e9-4252-943c-df122a9e6b0c",
+                "resourcePath": "sounds\\sound_mainMusic1\\sound_mainMusic1.yy",
+                "resourceType": "GMSound"
             }
         }
     ],
