@@ -159,6 +159,14 @@
             }
         },
         {
+            "Key": "69580877-8cbf-452f-b9a3-98d67f2936fb",
+            "Value": {
+                "id": "57218ca2-aca8-4121-a1b3-7c2153947c09",
+                "resourcePath": "objects\\object_ManaBar\\object_ManaBar.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "6c4c4f7a-447c-4320-9100-94148e625b79",
             "Value": {
                 "id": "4aa57884-4a02-4d6b-92c4-8ebd186bf321",
