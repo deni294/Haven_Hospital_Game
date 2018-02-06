@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "0b5224e4-46ee-4489-9f35-2e68ad9ff32a",
+            "Value": {
+                "id": "a08d1e98-264f-4316-8570-a76b9065e6d5",
+                "resourcePath": "sprites\\spr_circle_light_cookie_Denis\\spr_circle_light_cookie_Denis.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0ecd89ac-8fc9-403c-b1a0-d295d64d20a6",
             "Value": {
                 "id": "a7e8c3c8-4e59-4143-804a-a5d6da91adfc",
@@ -44,6 +52,14 @@
                 "id": "6b9179b4-5878-4128-a9c3-6307f7fa8a07",
                 "resourcePath": "paths\\pathPatient\\pathPatient.yy",
                 "resourceType": "GMPath"
+            }
+        },
+        {
+            "Key": "159dcad5-1a0c-40ba-b7bd-855682ae9755",
+            "Value": {
+                "id": "d1f01108-3ae7-455b-9441-cb6094336adf",
+                "resourcePath": "scripts\\lights_end_Denis\\lights_end_Denis.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -108,6 +124,14 @@
                 "id": "f68bd83c-ef90-456d-b711-c8400dbedbd8",
                 "resourcePath": "sprites\\sprite_tower1\\sprite_tower1.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "4e3f46a2-8bbc-4e4b-8a70-3d2ca7b3450d",
+            "Value": {
+                "id": "6f7fe498-1c33-445a-939f-fbbf4ed36fa2",
+                "resourcePath": "objects\\oLight\\oLight.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -311,6 +335,14 @@
             }
         },
         {
+            "Key": "c9a18163-dbcd-4672-adde-5271f7eaed2c",
+            "Value": {
+                "id": "aed04a5c-7d07-4d94-811a-ab00abb26b2f",
+                "resourcePath": "scripts\\lights_begin_Denis\\lights_begin_Denis.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "c309ddc5-008f-4e68-a6f4-d9b45fcd29fe",
@@ -375,6 +407,14 @@
             }
         },
         {
+            "Key": "f96dc6ad-07ea-41ae-8509-482c0f9ebb37",
+            "Value": {
+                "id": "af7c33b3-9bea-4f4d-9489-6b752ffc03e5",
+                "resourcePath": "objects\\light_follow_Janet_Denis\\light_follow_Janet_Denis.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "fc03adcb-0b52-43f7-92e8-18a94e8705f2",
             "Value": {
                 "id": "3498ae19-80e9-4252-943c-df122a9e6b0c",
@@ -384,7 +424,9 @@
         }
     ],
     "script_order": [
-        "9b4705ad-b94f-4fb3-aea7-24a416681253"
+        "9b4705ad-b94f-4fb3-aea7-24a416681253",
+        "c9a18163-dbcd-4672-adde-5271f7eaed2c",
+        "159dcad5-1a0c-40ba-b7bd-855682ae9755"
     ],
     "tutorial": ""
 }
