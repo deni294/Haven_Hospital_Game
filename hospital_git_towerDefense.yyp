@@ -95,6 +95,14 @@
             }
         },
         {
+            "Key": "2fc73f04-eb09-4f6c-bed7-78604a76e04d",
+            "Value": {
+                "id": "f2ae5785-8443-4e0a-ad70-2541a8eaf1d7",
+                "resourcePath": "objects\\object_YouWin\\object_YouWin.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "2ff7bb04-14bc-475f-a529-3be321f8907a",
             "Value": {
                 "id": "9042af95-0675-413b-83fd-a1b03b906f87",
@@ -407,11 +415,27 @@
             }
         },
         {
+            "Key": "b20fbdb8-b82c-431a-9583-ed1ebb1cde9c",
+            "Value": {
+                "id": "d4793988-c626-4a02-985f-fcfc7db658a9",
+                "resourcePath": "sprites\\sprite20\\sprite20.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "b84133a6-86f5-4b70-8b34-e79479b9d248",
             "Value": {
                 "id": "c2d7372c-1bb5-49e6-a801-d1149e7f3199",
                 "resourcePath": "views\\b84133a6-86f5-4b70-8b34-e79479b9d248.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "ba658b82-2452-47e0-913f-a976c3cb151b",
+            "Value": {
+                "id": "9692f298-cee5-495f-b39c-914b66103515",
+                "resourcePath": "rooms\\room_youWin\\room_youWin.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
