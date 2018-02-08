@@ -95,6 +95,14 @@
             }
         },
         {
+            "Key": "4006bc5a-b504-4725-8ab7-6fb4e0a64c3a",
+            "Value": {
+                "id": "361f48dc-7891-47db-a957-996cc41403e3",
+                "resourcePath": "sprites\\sprite_patientSpawner\\sprite_patientSpawner.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "472fde44-62b6-4b31-8af0-5122f287bfcf",
             "Value": {
                 "id": "4099cfe0-dbd6-465b-9e53-aeb66bb73f34",
