@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "03124770-08b7-485d-a42d-0e969b61c239",
+            "Value": {
+                "id": "f1d28ceb-dbfa-479c-86f7-2c7cb983369b",
+                "resourcePath": "sprites\\spr_circle_light_cookie_blue_Denis\\spr_circle_light_cookie_blue_Denis.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0b5224e4-46ee-4489-9f35-2e68ad9ff32a",
             "Value": {
                 "id": "a08d1e98-264f-4316-8570-a76b9065e6d5",
@@ -276,6 +284,14 @@
                 "id": "d90f329a-fc32-48ae-88ca-51dcde210c1a",
                 "resourcePath": "sprites\\sprite_normal_doctor\\sprite_normal_doctor.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "af58179a-a06b-45f8-8e76-727d62bc16d9",
+            "Value": {
+                "id": "79308970-a8da-4c74-8e44-04dacf53a2e2",
+                "resourcePath": "objects\\light_controller_Denis\\light_controller_Denis.yy",
+                "resourceType": "GMObject"
             }
         },
         {
