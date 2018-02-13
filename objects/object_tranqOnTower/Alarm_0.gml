@@ -1,8 +1,10 @@
 /// @description Insert description here
 // You can write your code in this editor
+inRange = false;
 for (var i  = 0; i < instance_number(object0); i+= 1)
 {
 	if (distance_to_object(instance_find(object0,i))< 120){
+		inRange = true;
 		if (closestObj == undefined){
 		closestObj = instance_find(object0,i);
 		
@@ -10,12 +12,16 @@ for (var i  = 0; i < instance_number(object0); i+= 1)
 			closestObj = instance_find(object0,i);
 		}
 		
-	} else {
-			closestObj = undefined;
-		}
+	}
+}
+if(inRange == false){
+closestObj = undefined;
 }
 if(closestObj != undefined){
 canShoot = true;
+}
+if(closestObj == undefined){
+canShoot = false;	
 }
 if (canShoot){
 	tranq = instance_create_depth(x,y,-3,object_tranqProjectile);
