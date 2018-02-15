@@ -31,11 +31,27 @@
     },
     "resources": [
         {
+            "Key": "02f512bc-5e11-44af-8dab-77c4d3068fa7",
+            "Value": {
+                "id": "b099c19d-9caf-4969-a1fd-1102a3b1e7b6",
+                "resourcePath": "views\\02f512bc-5e11-44af-8dab-77c4d3068fa7.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "03124770-08b7-485d-a42d-0e969b61c239",
             "Value": {
                 "id": "f1d28ceb-dbfa-479c-86f7-2c7cb983369b",
                 "resourcePath": "sprites\\spr_circle_light_cookie_blue_Denis\\spr_circle_light_cookie_blue_Denis.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "0b1b78d7-1925-43d8-ae91-9729c30089fa",
+            "Value": {
+                "id": "042761c9-5ed0-4631-ab6a-961b55589728",
+                "resourcePath": "objects\\object_towerLightForO\\object_towerLightForO.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -83,6 +99,14 @@
             "Value": {
                 "id": "b032ecae-2d61-4ca2-9d91-190c4197707e",
                 "resourcePath": "paths\\pathStart\\pathStart.yy",
+                "resourceType": "GMPath"
+            }
+        },
+        {
+            "Key": "16fe06b8-0ab0-41f0-ad4a-d7725047089c",
+            "Value": {
+                "id": "c9e0e372-1799-4661-89ef-7ce03f0e128a",
+                "resourcePath": "paths\\pathO\\pathO.yy",
                 "resourceType": "GMPath"
             }
         },
@@ -263,6 +287,14 @@
             }
         },
         {
+            "Key": "44de1967-4cbc-4623-9ec8-6bf66af9b132",
+            "Value": {
+                "id": "67bfbfe2-700d-4be5-8a46-bab17a07bc62",
+                "resourcePath": "paths\\pathL2\\pathL2.yy",
+                "resourceType": "GMPath"
+            }
+        },
+        {
             "Key": "472fde44-62b6-4b31-8af0-5122f287bfcf",
             "Value": {
                 "id": "4099cfe0-dbd6-465b-9e53-aeb66bb73f34",
@@ -335,6 +367,22 @@
             }
         },
         {
+            "Key": "4e99f3f1-0b48-4bfc-b15e-e6b0f610ed06",
+            "Value": {
+                "id": "902ee1c4-9773-468a-8c96-6244fd555afa",
+                "resourcePath": "objects\\object_towerLightForP\\object_towerLightForP.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "4fb08f2e-3089-4c71-8286-e4b3f81b0aeb",
+            "Value": {
+                "id": "f5fdb104-ab75-4c78-b4cd-513022f98e3a",
+                "resourcePath": "paths\\pathP\\pathP.yy",
+                "resourceType": "GMPath"
+            }
+        },
+        {
             "Key": "518be837-31ef-469a-bf62-cc70a1541081",
             "Value": {
                 "id": "6604e15f-c155-4efa-b07f-cff390dd4771",
@@ -356,6 +404,14 @@
                 "id": "064cb3fd-ac78-4066-8cd9-d249e18d46d4",
                 "resourcePath": "sprites\\sprite_tranq\\sprite_tranq.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "53d60d46-ebbe-4a30-9b0b-612dbcaef238",
+            "Value": {
+                "id": "6443e648-f917-451c-8e0e-d80ca05e50ec",
+                "resourcePath": "objects\\object_towerLightForH\\object_towerLightForH.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -439,6 +495,14 @@
             }
         },
         {
+            "Key": "6f9f365c-f28c-4dad-99b4-6947930fe06e",
+            "Value": {
+                "id": "438d1c09-2165-4181-a0b4-7aa11875c0bd",
+                "resourcePath": "paths\\pathN\\pathN.yy",
+                "resourceType": "GMPath"
+            }
+        },
+        {
             "Key": "6fb8eb8c-0cf2-455f-9d86-077abfb0bf6d",
             "Value": {
                 "id": "e9a8385f-8265-4a7f-8ca4-f6ade9bb8d57",
@@ -500,6 +564,14 @@
                 "id": "41f46ce9-f642-4a0b-b673-e3ae09e0a411",
                 "resourcePath": "sprites\\sprite_ExitCollider\\sprite_ExitCollider.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "8f2dc983-bd7e-4241-95e7-e00c133067a8",
+            "Value": {
+                "id": "981d982d-1fcd-48d7-a160-b5d2a4e90639",
+                "resourcePath": "paths\\pathJ3\\pathJ3.yy",
+                "resourceType": "GMPath"
             }
         },
         {
@@ -676,6 +748,14 @@
                 "id": "2ba261d9-75ce-42ea-b076-028b84429e94",
                 "resourcePath": "objects\\object_tranqOnTower\\object_tranqOnTower.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "bf473c79-cf3b-4d35-8616-2bd6ed0aa6d9",
+            "Value": {
+                "id": "7a65781a-9ca7-4a6b-b335-fa2f1f25d934",
+                "resourcePath": "paths\\pathM3\\pathM3.yy",
+                "resourceType": "GMPath"
             }
         },
         {
