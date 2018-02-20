@@ -1,4 +1,5 @@
 /// @description Insert description here
 // You can write your code in this editor
 x += playerSpeed;
-image_scale = 1;
+sprite_index = sprite_JanetWalk;
+image_xscale = 0.4375;
