@@ -231,6 +231,14 @@
             }
         },
         {
+            "Key": "3568447c-c3b1-46e5-ae10-583a856c5cd9",
+            "Value": {
+                "id": "1bf2a464-f23b-4db2-98a9-398a74cf1e42",
+                "resourcePath": "objects\\object_truesight\\object_truesight.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "363be68f-04b7-475f-959b-dc89c0203ed3",
             "Value": {
                 "id": "493976ff-dd4f-4d0a-be31-1bb1024659af",
@@ -275,6 +283,14 @@
             "Value": {
                 "id": "361f48dc-7891-47db-a957-996cc41403e3",
                 "resourcePath": "sprites\\sprite_patientSpawner\\sprite_patientSpawner.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "4018d870-62a9-4f2b-8d16-e3e3ddc8e1df",
+            "Value": {
+                "id": "44b769be-a3a9-4d52-bebb-16e4e7967f20",
+                "resourcePath": "sprites\\spr_circle_light_cookie_red_Denis\\spr_circle_light_cookie_red_Denis.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -916,6 +932,14 @@
                 "id": "4e93b4b3-2fc4-4ee1-918c-7f7ded9e6bf5",
                 "resourcePath": "objects\\object_Highlighter\\object_Highlighter.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "e6cbf295-b3f8-4574-b0e0-659677cd95a5",
+            "Value": {
+                "id": "6ea4b9d4-40eb-4a7c-9289-2c6db2517fc4",
+                "resourcePath": "sprites\\sprite27\\sprite27.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
