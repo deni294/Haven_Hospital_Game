@@ -1,3 +1,4 @@
+//This chunk of code locates the nearest patient, if there are any, and if they are close enough, makes them a target for movement
 targetX = 0;
 targetY = 0;
 closestObjVis = undefined;
