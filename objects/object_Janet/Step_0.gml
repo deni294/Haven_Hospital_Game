@@ -6,6 +6,5 @@ if(place_free(x, y)){
 
 }
 else {
-	playerSpeed = 1;
-	
+	playerSpeed = 3;
 }
