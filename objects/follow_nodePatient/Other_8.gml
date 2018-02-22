@@ -1,7 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
 if(pathStepper == "N"){
-	
 	if(object_towerLightForO.isOn == true && object_towerLightForO.chargeLevel>object_towerLightForP.chargeLevel){
 		path_start(pathO,1,path_action_stop,false);
 		pathStepper = "O";
@@ -20,10 +19,18 @@ if(pathStepper == "O"){
 		exit;
 	}
 }
-else{
-	alarm_set(0,1);	
+if(pathStepper == "H"){
+	if(object_towerLightForI.isOn == true && object_towerLightForI.chargeLevel>object_towerLightForJ.chargeLevel){
+		path_start(pathI,1,path_action_stop,false);
+		pathStepper = "I";
+		exit;
+	}
+	if(object_towerLightForJ.isOn == true && object_towerLightForJ.chargeLevel>object_towerLightForI.chargeLevel){
+		path_start(pathJ,1,path_action_stop,false);
+		pathStepper = "J";
+		exit;
+	}
 }
 
-	randomCounter += 1;
-		show_debug_message(randomCounter);
-		
+	alarm_set(0,1);	
+
