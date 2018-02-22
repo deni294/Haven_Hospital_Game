@@ -495,6 +495,14 @@
             }
         },
         {
+            "Key": "64ec505d-cae4-47c9-98e7-e17ec2528ed6",
+            "Value": {
+                "id": "a567fea8-e1ed-44b1-8cd5-ed1af5951d4b",
+                "resourcePath": "views\\64ec505d-cae4-47c9-98e7-e17ec2528ed6.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "67cd472f-4401-45a8-8158-d4db8575f5cf",
             "Value": {
                 "id": "7fa80cfe-625d-4dc5-96c1-9c6f81144028",
@@ -615,6 +623,14 @@
             }
         },
         {
+            "Key": "7bd51f63-46a8-418f-bd8f-b4fbd3bdcc76",
+            "Value": {
+                "id": "6a419160-d07c-4cac-a8e5-acb0d2ee5482",
+                "resourcePath": "sprites\\sprite_doctors_right\\sprite_doctors_right.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "83f2a03e-32c7-4cae-9fc3-42d3252e28d6",
             "Value": {
                 "id": "707b6f87-b146-44ab-a9ea-a32ffe27d21f",
@@ -651,6 +667,14 @@
             "Value": {
                 "id": "1bc23596-3bb6-4c03-9890-1e2ec2e4906b",
                 "resourcePath": "objects\\object_TowerPlacer\\object_TowerPlacer.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "8cd3137f-08ba-4c0f-afa3-ae2cf9236e66",
+            "Value": {
+                "id": "5717b41e-d7bb-48be-9b7e-3ac8fc835767",
+                "resourcePath": "objects\\object_doctors_inbound_right\\object_doctors_inbound_right.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -956,6 +980,14 @@
                 "id": "95591e11-82fa-4332-b964-c2722a95d6ab",
                 "resourcePath": "views\\dc25eb8d-02ed-4982-a6d3-ab3e1d052e0d.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "dc4541ce-77ad-4b99-919e-d18b02ada18b",
+            "Value": {
+                "id": "dbbe3afe-0dab-473f-83fb-2748a6c09308",
+                "resourcePath": "sprites\\sprite_Main_Menu\\sprite_Main_Menu.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
