@@ -15,7 +15,7 @@ for (var i  = 0; i < instance_number(object_patient); i+= 1)
 }
 if (nearby_creeps >= 5)
 {
-hp -=1;
+hp -=.2;
 }
 if (hp <=0){
 	

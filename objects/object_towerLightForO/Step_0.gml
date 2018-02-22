@@ -5,7 +5,7 @@ if(mouse_check_button(1)!=true){
 	
 	slowDown --;
 	if(slowDown == 0){
-	instance_destroy(instance_find(light_controller_Denis, 0));
+	
 	slowDown = 10;
 	if(chargeLevel > 0){
 		chargeLevel --;	
