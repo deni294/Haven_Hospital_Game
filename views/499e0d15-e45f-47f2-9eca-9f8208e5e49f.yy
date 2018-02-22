@@ -6,7 +6,8 @@
     "children": [
         "3c168ef4-3966-4edb-9825-fefd32cf65b5",
         "da98b554-5c20-4547-a0c3-817187b7bef5",
-        "d89b5bd8-b42b-4dd2-9227-07fa0fc91d46"
+        "d89b5bd8-b42b-4dd2-9227-07fa0fc91d46",
+        "9cc53b50-7215-401b-9462-7b68e2c4bd1a"
     ],
     "filterType": "GMSprite",
     "folderName": "Janet Sprites",

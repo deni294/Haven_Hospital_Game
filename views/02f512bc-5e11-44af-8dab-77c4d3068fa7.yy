@@ -9,7 +9,11 @@
         "53d60d46-ebbe-4a30-9b0b-612dbcaef238",
         "0da8e751-7085-4139-862f-60c0f0270a68",
         "0f8faa79-92ab-40da-93cc-095bf8786009",
-        "dae60544-4129-468f-8ef3-a88eb1ddf4a5"
+        "dae60544-4129-468f-8ef3-a88eb1ddf4a5",
+        "9c5c06c3-1b24-4cf1-aeed-810439df9ca2",
+        "eb4dcb21-4d75-46d2-bae0-5027da1de027",
+        "7188437a-8df5-40d1-a61e-3e80d5960155",
+        "c9294de6-f65b-4392-a646-0e18e699cff9"
     ],
     "filterType": "GMObject",
     "folderName": "LightTowers",

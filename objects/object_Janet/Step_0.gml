@@ -7,4 +7,9 @@ if(place_free(x, y)){
 }
 else {
 	playerSpeed = 3;
+	sprite_index = sprite_JanetCrawl;
+	
+}
+if(place_meeting(x,y,object0)){
+ hp -= 1;	
 }

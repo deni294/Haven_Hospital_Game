@@ -3,20 +3,8 @@
 //spawns AOE tower
 
 if (position_meeting(mouse_x,mouse_y,object_table) && point_distance(mouse_x,mouse_y,object_Janet.x,object_Janet.y)<200 && position_meeting(mouse_x,mouse_y,object_PlacementBlocker)!=true && position_meeting(mouse_x,mouse_y,object_tower2)!= true){
-	if(selectedTower == 1 && global.mana >= 20){
-		instance_create_depth(mouse_x,mouse_y,100,object_tower1);
-		global.mana -= 20;
-		global.manaRegenerate = false;
-		alarm[1] = 5*room_speed;
-	} else if(selectedTower == 2 && global.mana >= 20){
+	if(global.mana >= 50){
 		instance_create_depth(mouse_x,mouse_y,100,object_tower2);
-		global.mana -= 20;
-		global.manaRegenerate = false;
-		alarm[1] = 5*room_speed;
-	} else if(selectedTower == 3 && global.mana >= 10){
-	instance_create_depth(mouse_x,mouse_y,100,object_tower3);
-	global.mana -= 5;
-	global.manaRegenerate = false;
-	alarm[1] = 5*room_speed;
+		global.mana -= 50;
 	}
 }

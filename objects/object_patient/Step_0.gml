@@ -15,7 +15,8 @@ for (var i  = 0; i < instance_number(object_patient); i+= 1)
 }
 if (nearby_creeps >= 5)
 {
-hp -=.2;
+hp -=.1;
+instance_create_layer(x,y-100,"UI",object_damageAlert);
 }
 if (hp <=0){
 	
