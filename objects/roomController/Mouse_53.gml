@@ -6,5 +6,7 @@ if (position_meeting(mouse_x,mouse_y,object_table) && point_distance(mouse_x,mou
 	if(global.mana >= 50){
 		instance_create_depth(mouse_x,mouse_y,100,object_tower2);
 		global.mana -= 50;
+		global.manaRegenerate = false;
+		object_ManaBar.alarm[0] = 5*room_speed;
 	}
 }

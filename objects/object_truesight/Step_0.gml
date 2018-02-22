@@ -13,5 +13,5 @@ if(toggled)
 {
 	global.mana -= manaCost;
 	global.manaRegenerate = false;
-	alarm[0] = 5*room_speed;
+	object_ManaBar.alarm[0] = 5*room_speed;
 }

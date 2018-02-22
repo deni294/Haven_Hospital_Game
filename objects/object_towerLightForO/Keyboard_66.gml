@@ -5,7 +5,7 @@ if(position_meeting(mouse_x,mouse_y,self)){
 	chargeLevel +=1;
 	global.mana -=0.5;
 	global.manaRegenerate = false;
-	alarm[0] = 5*room_speed;
+	object_ManaBar.alarm[0] = 5*room_speed;
 	instance_create_layer(x, y-100, "moving_lights", light_controller_Denis);
 }
 if(chargeLevel > 0){
