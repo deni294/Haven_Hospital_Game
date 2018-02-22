@@ -1,38 +1,38 @@
 {
-    "id": "69580877-8cbf-452f-b9a3-98d67f2936fb",
+    "id": "8cd3137f-08ba-4c0f-afa3-ae2cf9236e66",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "object_ManaBar",
+    "name": "object_doctors_inbound_right",
     "eventList": [
         {
-            "id": "b32bd794-e795-4432-9b99-e8c839497aed",
+            "id": "ae2b23d7-3f7d-4445-ad27-3967ea01f0de",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "69580877-8cbf-452f-b9a3-98d67f2936fb"
+            "m_owner": "8cd3137f-08ba-4c0f-afa3-ae2cf9236e66"
         },
         {
-            "id": "4e53e6ca-125c-4b07-94eb-cf32e7517763",
+            "id": "22922e0e-6dca-4d05-8861-01ecc1528bad",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
-            "eventtype": 8,
-            "m_owner": "69580877-8cbf-452f-b9a3-98d67f2936fb"
+            "eventtype": 2,
+            "m_owner": "8cd3137f-08ba-4c0f-afa3-ae2cf9236e66"
         },
         {
-            "id": "2ac63334-9a3e-4681-9087-fbb702c2c78e",
+            "id": "ab692229-2c43-4ecd-8ce5-0cee9f39f03e",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 3,
-            "m_owner": "69580877-8cbf-452f-b9a3-98d67f2936fb"
+            "enumb": 1,
+            "eventtype": 2,
+            "m_owner": "8cd3137f-08ba-4c0f-afa3-ae2cf9236e66"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -53,6 +53,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "00000000-0000-0000-0000-000000000000",
+    "spriteId": "7bd51f63-46a8-418f-bd8f-b4fbd3bdcc76",
     "visible": true
 }

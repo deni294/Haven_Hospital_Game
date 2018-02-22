@@ -12,6 +12,6 @@ if(global.roomHealth <= 0){
 if(global.manaRegenerate)
 {
 	global.mana += .5;
-	if(global.mana > 30)
+	if(global.mana > 100)
 		global.manaRegenerate = false;
 }
