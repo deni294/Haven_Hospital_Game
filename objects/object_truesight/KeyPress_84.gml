@@ -2,7 +2,11 @@
 // You can write your code in this editor
 
 //switch our toggle state Denis
-toggled = !toggled;
+// we only switch if we have the appropriate mana
+if(global.mana >= manaRequirement || toggled)
+{
+	toggled = !toggled;
+}
 
 if(toggled)
 {
