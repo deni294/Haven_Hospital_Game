@@ -14,8 +14,11 @@ if(pathStepper == "N"){
 	}
 }
 if(pathStepper == "O"){
-	
-	
+	if(object_towerLightForH.isOn == true){
+		path_start(pathH,1,path_action_stop,false);
+		pathStepper = "H";
+		exit;
+	}
 }
 else{
 	alarm_set(0,1);	

@@ -1,6 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
-if(ev_global_left_button!=true){
+if(mouse_check_button(1)!=true){
 	
 	slowDown --;
 	if(slowDown == 0){

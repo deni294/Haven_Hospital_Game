@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "object_TowerPlacer",
     "eventList": [
-        
+        {
+            "id": "5b2ff2c2-6ce8-4dea-afe5-2fdaadc4c5ca",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "8b8251ee-389d-4003-acb5-43af5a6e89f5"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
