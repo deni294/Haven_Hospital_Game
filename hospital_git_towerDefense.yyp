@@ -79,26 +79,10 @@
             }
         },
         {
-            "Key": "0da8e751-7085-4139-862f-60c0f0270a68",
-            "Value": {
-                "id": "e5a5a7f7-4e8b-4205-a5d4-e5512adcf917",
-                "resourcePath": "objects\\object_towerLightForI\\object_towerLightForI.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "0ecd89ac-8fc9-403c-b1a0-d295d64d20a6",
             "Value": {
                 "id": "a7e8c3c8-4e59-4143-804a-a5d6da91adfc",
                 "resourcePath": "objects\\object_Janet\\object_Janet.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "0f8faa79-92ab-40da-93cc-095bf8786009",
-            "Value": {
-                "id": "972af5c8-33e3-4736-b464-e08804feefb4",
-                "resourcePath": "objects\\object_TowerDimmerController\\object_TowerDimmerController.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -455,14 +439,6 @@
             }
         },
         {
-            "Key": "4e99f3f1-0b48-4bfc-b15e-e6b0f610ed06",
-            "Value": {
-                "id": "902ee1c4-9773-468a-8c96-6244fd555afa",
-                "resourcePath": "objects\\object_towerLightForP\\object_towerLightForP.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "4fb08f2e-3089-4c71-8286-e4b3f81b0aeb",
             "Value": {
                 "id": "f5fdb104-ab75-4c78-b4cd-513022f98e3a",
@@ -492,14 +468,6 @@
                 "id": "064cb3fd-ac78-4066-8cd9-d249e18d46d4",
                 "resourcePath": "sprites\\sprite_tranq\\sprite_tranq.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "53d60d46-ebbe-4a30-9b0b-612dbcaef238",
-            "Value": {
-                "id": "6443e648-f917-451c-8e0e-d80ca05e50ec",
-                "resourcePath": "objects\\object_towerLightForH\\object_towerLightForH.yy",
-                "resourceType": "GMObject"
             }
         },
         {
@@ -636,14 +604,6 @@
                 "id": "e9a8385f-8265-4a7f-8ca4-f6ade9bb8d57",
                 "resourcePath": "sprites\\sprite_table2\\sprite_table2.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "7188437a-8df5-40d1-a61e-3e80d5960155",
-            "Value": {
-                "id": "72442915-c3dd-4cdf-b892-dc766d08546e",
-                "resourcePath": "objects\\object_towerLightForM2\\object_towerLightForM2.yy",
-                "resourceType": "GMObject"
             }
         },
         {
@@ -796,14 +756,6 @@
                 "id": "39af32e3-b8fa-4271-82d6-35945bacaa45",
                 "resourcePath": "scripts\\script0\\script0.yy",
                 "resourceType": "GMScript"
-            }
-        },
-        {
-            "Key": "9c5c06c3-1b24-4cf1-aeed-810439df9ca2",
-            "Value": {
-                "id": "67d49890-b00c-4506-b228-29e77b38e84a",
-                "resourcePath": "objects\\object_towerLightForK\\object_towerLightForK.yy",
-                "resourceType": "GMObject"
             }
         },
         {
@@ -1023,14 +975,6 @@
             }
         },
         {
-            "Key": "c9294de6-f65b-4392-a646-0e18e699cff9",
-            "Value": {
-                "id": "bd9028fb-95c8-4cf2-8b6f-0e5b5a8c0a61",
-                "resourcePath": "objects\\object_towerLightForEnd\\object_towerLightForEnd.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "c9a18163-dbcd-4672-adde-5271f7eaed2c",
             "Value": {
                 "id": "aed04a5c-7d07-4d94-811a-ab00abb26b2f",
@@ -1084,14 +1028,6 @@
                 "id": "a2ec2106-ca79-4b0f-ab41-e8996fc0b44c",
                 "resourcePath": "sprites\\sprite_JanetWalk\\sprite_JanetWalk.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "dae60544-4129-468f-8ef3-a88eb1ddf4a5",
-            "Value": {
-                "id": "45859378-fb1b-4454-a171-ee82471f511b",
-                "resourcePath": "objects\\object_towerLightForJ\\object_towerLightForJ.yy",
-                "resourceType": "GMObject"
             }
         },
         {
@@ -1195,14 +1131,6 @@
             "Value": {
                 "id": "a2c4c774-d5a0-44c9-bcfa-db1f22a38eea",
                 "resourcePath": "objects\\object_PlacementBlocker\\object_PlacementBlocker.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "eb4dcb21-4d75-46d2-bae0-5027da1de027",
-            "Value": {
-                "id": "29eba036-0d5a-4bcf-82cd-b0a175acb26b",
-                "resourcePath": "objects\\object_towerLightForM\\object_towerLightForM.yy",
                 "resourceType": "GMObject"
             }
         },
