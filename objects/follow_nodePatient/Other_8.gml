@@ -1,7 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
 if(pathStepper == "N"){
-	if(object_towerLightForO.isOn == true && object_towerLightForO.chargeLevel>object_towerLightForP.chargeLevel){
+	if(inst_528D79D3.isOn == true && object_towerLightForO.chargeLevel>object_towerLightForP.chargeLevel){
 		path_start(pathO,1,path_action_stop,false);
 		pathStepper = "O";
 		exit;
