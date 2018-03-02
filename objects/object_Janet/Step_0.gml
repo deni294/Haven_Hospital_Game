@@ -1,6 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
-
+show_debug_message(playerSpeed);
 if(place_free(x, y)){
 	playerSpeed = 5;
 
