@@ -11,13 +11,16 @@ if(
   )
 {
 	global.mana -=15;
+	chargeLevel = 30;
 	global.manaRegenerate = false;
 	object_ManaBar.alarm[0] = 5*room_speed;
 	
 	triggered = true;
 	
-	for(i = 0;i < chargeLevel;i++)
+	for(i = 0;i < 30;i++)
 	{
-		instance_create_layer(self.x, self.y-100, "moving_lights", light_controller_Denis);
+		inst = instance_create_layer(self.x, self.y-100, "moving_lights", light_controller_Denis);
+		ds_list_add(lightList,inst.id);
+		
 	}
 }
