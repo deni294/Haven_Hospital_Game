@@ -127,6 +127,14 @@
             }
         },
         {
+            "Key": "16a70eec-a982-44bd-bd19-78f19f228d40",
+            "Value": {
+                "id": "fcba3695-15f7-4b4d-a046-8241627beea0",
+                "resourcePath": "objects\\object_build_mode\\object_build_mode.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "16a8fa0a-1abe-47b1-8ea7-31caae92df15",
             "Value": {
                 "id": "30f4fe57-87f1-4c8b-8eaa-471ab4b9247b",
@@ -204,6 +212,14 @@
                 "id": "36ebc73c-2942-4cbc-97ed-0d6fc682cc8c",
                 "resourcePath": "sprites\\sprite_Highlighter\\sprite_Highlighter.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "266cfdcf-e798-497a-957d-6a58365f1eeb",
+            "Value": {
+                "id": "2c8def80-fe36-4091-8f54-c08a70d5207c",
+                "resourcePath": "views\\266cfdcf-e798-497a-957d-6a58365f1eeb.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -527,14 +543,6 @@
             }
         },
         {
-            "Key": "5deb1085-5093-4039-833e-b00758f888df",
-            "Value": {
-                "id": "0e78c76f-9754-4595-9670-7a1c5092047c",
-                "resourcePath": "objects\\object_tower3\\object_tower3.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "5f7ebfb9-6a1f-4e73-acbe-cca68530d964",
             "Value": {
                 "id": "91d3d627-7e46-4292-9de5-dc1d62e38f90",
@@ -588,6 +596,14 @@
                 "id": "57218ca2-aca8-4121-a1b3-7c2153947c09",
                 "resourcePath": "objects\\object_ManaBar\\object_ManaBar.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "6a43f929-cd78-4e26-adfc-07554f283678",
+            "Value": {
+                "id": "b3365ade-ac26-42e9-8ae1-f3e654db88a7",
+                "resourcePath": "sprites\\sprite_tableDetailVerticle1\\sprite_tableDetailVerticle1.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

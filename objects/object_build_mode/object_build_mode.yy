@@ -1,19 +1,10 @@
 {
-    "id": "a6b72884-38dd-477f-871d-074d3a7d84dc",
+    "id": "16a70eec-a982-44bd-bd19-78f19f228d40",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "object_RoomStart",
+    "name": "object_build_mode",
     "eventList": [
-        {
-            "id": "d8261981-f059-47e6-816e-69ff9aed7eaf",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 13,
-            "eventtype": 5,
-            "m_owner": "a6b72884-38dd-477f-871d-074d3a7d84dc"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
@@ -33,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "86eb9224-ea0e-4edc-be62-bab83c0f99c8",
-    "visible": false
+    "spriteId": "00000000-0000-0000-0000-000000000000",
+    "visible": true
 }
