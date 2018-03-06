@@ -10,7 +10,7 @@ if(triggered)
 		ds_list_delete(lightList,ds_list_size(lightList)-1);
 	//instance_destroy(instance_find(light_controller_Denis, 0)); - Going to try to use data structure lists instead, will work better
 	//with more lights
-	slowDown = 20;
+	slowDown = 30;
 	chargeLevel--;
 	}
 }
