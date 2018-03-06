@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "0602a1a3-c7ed-4369-a616-6760bd63d4c0",
+            "Value": {
+                "id": "c142d657-9e16-4414-9262-27cb3e6a0b23",
+                "resourcePath": "views\\0602a1a3-c7ed-4369-a616-6760bd63d4c0.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "0b1b78d7-1925-43d8-ae91-9729c30089fa",
             "Value": {
                 "id": "042761c9-5ed0-4631-ab6a-961b55589728",
@@ -215,6 +223,14 @@
             }
         },
         {
+            "Key": "284cd1be-2387-4efe-844a-de5d0cefcd3e",
+            "Value": {
+                "id": "1cc0020c-9bab-416e-81cf-178202d172f4",
+                "resourcePath": "paths\\path1A\\path1A.yy",
+                "resourceType": "GMPath"
+            }
+        },
+        {
             "Key": "29855e9f-1370-4dcc-9000-9bf19a864a08",
             "Value": {
                 "id": "8d520e1d-cc55-4ad8-835a-3d67dfdea69d",
@@ -348,6 +364,14 @@
                 "id": "44b769be-a3a9-4d52-bebb-16e4e7967f20",
                 "resourcePath": "sprites\\spr_circle_light_cookie_red_Denis\\spr_circle_light_cookie_red_Denis.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "40ed944e-48ea-4a75-b92c-84d2214eee63",
+            "Value": {
+                "id": "9a46a995-de95-4f12-83da-f1c7d62a3638",
+                "resourcePath": "views\\40ed944e-48ea-4a75-b92c-84d2214eee63.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -759,6 +783,14 @@
             }
         },
         {
+            "Key": "8f07b272-dc40-4e32-b243-0b4361f7371a",
+            "Value": {
+                "id": "fb00c39e-7e29-4145-9d22-697d39acbf30",
+                "resourcePath": "paths\\path1B\\path1B.yy",
+                "resourceType": "GMPath"
+            }
+        },
+        {
             "Key": "8f2dc983-bd7e-4241-95e7-e00c133067a8",
             "Value": {
                 "id": "981d982d-1fcd-48d7-a160-b5d2a4e90639",
@@ -820,6 +852,14 @@
                 "id": "dc0edbee-e238-40a5-add1-8cfef9bd05ee",
                 "resourcePath": "objects\\object_patient\\object_patient.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "9f6ee9c9-f333-4e7e-8d54-16c236a20f5e",
+            "Value": {
+                "id": "315fca21-6c3c-4bad-a4d0-0b9b5b86853d",
+                "resourcePath": "paths\\path1C\\path1C.yy",
+                "resourceType": "GMPath"
             }
         },
         {
