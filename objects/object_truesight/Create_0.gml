@@ -4,4 +4,4 @@ theKeyisDown = false;
 eligible = true;
 self.image_alpha = 0;
 manaRequirement = 50;
-manaCost = 1.5;
+manaCost = .70;
