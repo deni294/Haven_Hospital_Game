@@ -13,9 +13,14 @@ if(triggered)
 	slowDown = 30;
 	chargeLevel--;
 	}
+	if(image_index == 8){
+		image_speed = 0;
+		show_debug_message("ImageSpeed");
+	}
 }
 
 if(chargeLevel == 0)
 {
 	triggered = false;
+	image_index = 0;
 }

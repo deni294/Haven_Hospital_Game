@@ -146,7 +146,7 @@
             "Key": "16bb6c0d-e689-4011-99be-7bef80e00de6",
             "Value": {
                 "id": "e76fad2b-41f6-4141-9d88-8b7b6a152e14",
-                "resourcePath": "sprites\\sprite36\\sprite36.yy",
+                "resourcePath": "sprites\\sprite_Door\\sprite_Door.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -439,6 +439,14 @@
             }
         },
         {
+            "Key": "486a9b4a-2687-4ecf-a1a9-5ed927124e23",
+            "Value": {
+                "id": "17ed4286-b0d3-450b-8d7f-34013841a3a0",
+                "resourcePath": "views\\486a9b4a-2687-4ecf-a1a9-5ed927124e23.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "48ec4436-a7cc-4c46-9f87-4fc1bdd06aac",
             "Value": {
                 "id": "f68bd83c-ef90-456d-b711-c8400dbedbd8",
@@ -543,6 +551,14 @@
             }
         },
         {
+            "Key": "5d59128e-3823-4571-81a7-12e3f34fdde7",
+            "Value": {
+                "id": "b4a8f691-5b1e-46f9-9f61-52db5a7932c4",
+                "resourcePath": "sprites\\sprite_manaBar\\sprite_manaBar.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "5f7ebfb9-6a1f-4e73-acbe-cca68530d964",
             "Value": {
                 "id": "91d3d627-7e46-4292-9de5-dc1d62e38f90",
@@ -610,7 +626,7 @@
             "Key": "6b6f218f-bbd6-4cd1-89d7-e40174b7cccd",
             "Value": {
                 "id": "6331cb78-ea13-42d5-a4cd-5fa01d8a6d22",
-                "resourcePath": "sprites\\sprite35\\sprite35.yy",
+                "resourcePath": "sprites\\sprite_sickPatient\\sprite_sickPatient.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -903,6 +919,14 @@
             }
         },
         {
+            "Key": "a83086e8-663c-4548-9525-99b0eb3b7673",
+            "Value": {
+                "id": "70cd657c-219c-40a0-a907-9dbb27a00e81",
+                "resourcePath": "objects\\object_visualManaBar\\object_visualManaBar.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "a8eddd0b-7055-4937-87b6-d09ff58a65e9",
             "Value": {
                 "id": "e42a730a-2d1e-4943-b140-bf4684740bf9",
@@ -948,6 +972,14 @@
                 "id": "79308970-a8da-4c74-8e44-04dacf53a2e2",
                 "resourcePath": "objects\\light_controller_Denis\\light_controller_Denis.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "b0b85e9d-1f5d-42e3-b393-b2e2444e8dc5",
+            "Value": {
+                "id": "c3c4ffdd-d161-44e9-b0f6-d3734579d383",
+                "resourcePath": "views\\b0b85e9d-1f5d-42e3-b393-b2e2444e8dc5.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -1183,14 +1215,6 @@
             }
         },
         {
-            "Key": "dfac3bdd-85bd-4ecb-9b40-c7620fbb5d81",
-            "Value": {
-                "id": "6f22f98d-2c8f-4692-901e-ebd0aba131aa",
-                "resourcePath": "sprites\\StandIn\\StandIn.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "dfb876d4-f630-49c0-8e88-ef0a188a17ef",
             "Value": {
                 "id": "68106e42-95fd-4b04-a750-4688abfb9265",
@@ -1212,14 +1236,6 @@
                 "id": "4e93b4b3-2fc4-4ee1-918c-7f7ded9e6bf5",
                 "resourcePath": "objects\\object_Highlighter\\object_Highlighter.yy",
                 "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "e6cbf295-b3f8-4574-b0e0-659677cd95a5",
-            "Value": {
-                "id": "6ea4b9d4-40eb-4a7c-9289-2c6db2517fc4",
-                "resourcePath": "sprites\\sprite27\\sprite27.yy",
-                "resourceType": "GMSprite"
             }
         },
         {

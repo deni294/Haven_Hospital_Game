@@ -10,6 +10,7 @@ if(
 		distance_to_object(object_Janet) < 69))		//long if statement boi
   )
 {
+	image_speed = 10;
 	global.mana -=15;
 	chargeLevel = 15;
 	global.manaRegenerate = false;

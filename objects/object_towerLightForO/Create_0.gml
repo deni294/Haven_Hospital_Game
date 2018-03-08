@@ -7,3 +7,4 @@ lightList = ds_list_create();
 chargeLevel = 0;
 slowDown = 20;
 triggered = false;
+image_speed = 0;

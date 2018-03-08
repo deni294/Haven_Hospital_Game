@@ -6,7 +6,8 @@
     "children": [
         "48ec4436-a7cc-4c46-9f87-4fc1bdd06aac",
         "71c417ea-1dc4-40c8-ad34-14150d1500d8",
-        "a963cc35-3ecf-40db-8157-4e93fcd1f8c6"
+        "a963cc35-3ecf-40db-8157-4e93fcd1f8c6",
+        "532be934-96c9-4880-8582-9659ad32bc51"
     ],
     "filterType": "GMSprite",
     "folderName": "Tower Sprites",
